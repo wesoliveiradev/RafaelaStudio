@@ -1,0 +1,16 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins-Regular;
+}
+
+body {
+    position: relative;
+    background: rgb(220, 197, 200);
+    background-attachment: scroll;
+    min-height: 100vh;
+    top: 0;
+    left: 78px;
+    width: calc(100% - 78px);
+}
