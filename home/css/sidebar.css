@@ -380,6 +380,12 @@
     display: flex;
     align-items:center
   }
+  input[type="text"], input[type="number"], input[type="date"] {
+    background: #ffff;
+    border: 1px #c0c0c0 solid;
+    border-radius: 5px;
+    filter: drop-shadow(2px 2px 2px #c0c0c0);
+  }
   .input-group {
     display: flex;
     flex-direction: row;
