@@ -1,0 +1,53 @@
+
+.page-header {
+  background: #E4CCCC;
+  display: block;
+}
+
+.page-header h1 {
+  display: inline-block;
+  font-size: 24pt;
+  font-family: sans-serif;
+  margin: 20px 30px;
+}
+
+.page-content {
+  display: block;
+}
+
+input.btn-localizar {
+  margin: 20px 0px;
+}
+
+.container table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.container table .table-header {
+  background-color: #EDEDED;
+}
+
+.container table td {
+  padding: 5px;
+}
+
+.container table .table-row:nth-child(even) {
+  background-color: #F9F9F9;
+}
+
+.container table .table-row:nth-child(odd) {
+  background-color: #F4F4F4;
+}
+.container table .table-row .table-icons {
+  display: block;
+  float: right;
+}
+
+.container table .table-row .table-icons i {
+  
+}
+
+.table-footer {
+  margin-top: 20px;
+}
